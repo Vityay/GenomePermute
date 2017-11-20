@@ -11,4 +11,4 @@ The example input files, chromosome lengths and gap locations for GRCh37 assembl
 Expected output:
 === FINAL CONCLUSION: Enriched, p<0.001 ===
 
-Program also generates an output file with number of overlaps dicovered for every permutation. This file can be used for generation of boxplot or violin lot graphs that show value of non-permuted overlap value and distribution of permuted values.
+Program also generates an output file with number of overlaps dicovered for every permutation. This file can be used for generation of boxplot or violin plots that show value of non-permuted overlap value and distribution of permuted values.
